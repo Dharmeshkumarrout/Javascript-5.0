@@ -83,3 +83,62 @@ OPERATOR IN JS :-
    - ex. A+B
    - in the above example A & B are the operator , '+' is the operator to do the addition.
    1. ARITHMETIC OPERATORS :-
+   (+,-,*,/)
+   modulus -> %
+   Exponentiation -> **
+   2. UNARY OPERATOR :-
+   increament -> ++
+   decrement -> --
+   3. ASSIGNMENT OPERATOR :- ( assign some value to the variables)
+   (=,+=,-=,*=,%=,**=)
+   4. COMPARISON OPERATOr :- (comair the values)
+   - its give the resule true or false.
+   equal to -> ==
+   not equal to -> !=
+   equal to & type -> ===
+   not equal to & typa -> !==
+   (>, >= ,< ,<=)
+
+   5. LOGICAL OPERATOR :- Checks the logic of the operator (true/false)
+      Logical AND &&
+      table of AND operator is :-
+      cond 1 , cond 2 , res (&&)
+      T + T = T
+      T + T = F
+      F + T = F
+      F + F = F
+      LOgical OR !
+      Table of OR operator is :-
+      cond 1 , cond 2 , res (||)
+      T + T = T
+      T + T = T
+      F + T = T
+      F + F = T
+      Logical NOT !
+
+
+CONDITIONAL STATEMENT :-
+    
+    - to implement some condition in the code.
+    - there are three types of conditional statement are there
+    1. if condition
+        - if there conditon is true then statement is  true otherwise false.
+        syntax :-
+          if(condition){
+               statement
+          }
+    2. if-else condition
+        - if ccondition is true then block executed otherwise its terminate to else condition.
+        syntax :-
+        if(condition){
+             statement
+        }
+        else{
+         statement
+        }
+    3. else-if condition 
+        - its check the condition multiple times where condition is true.
+        synatax
+
+
+
